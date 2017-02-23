@@ -1,7 +1,3 @@
-%Davis Nyabuti
-%Assignment #2
-%SEIS 763
-
 load patients
 
 % categorical vars
