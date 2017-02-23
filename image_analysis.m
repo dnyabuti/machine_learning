@@ -1,12 +1,8 @@
-%Davis Nyabuti
-%Assignment #1
-%SEIS 763
-
-% 1. Read in the image “Parrots.jpg”.
+% 1. Read in the image â€œParrots.jpgâ€.
 img = imread('C:\tmp\Parrots.jpg');
 %{
-2. Display the size of an image “Parrots.jpg” on the screen. It should be
-something like (A B 3), where A × B is the number of pixels in each plane, 
+2. Display the size of an image â€œParrots.jpgâ€ on the screen. It should be
+something like (A B 3), where A Ã— B is the number of pixels in each plane, 
 and the image has 3 planes
 %}
 disp(size(img));
