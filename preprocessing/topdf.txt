@@ -1,0 +1,1 @@
+ipython nbconvert --to=pdf --template=oc.tpl AnomalyDetection.ipynb
